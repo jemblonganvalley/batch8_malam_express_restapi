@@ -1,0 +1,10 @@
+###
+POST http://localhost:3000/api/absen
+Content-Type: application/json
+
+{
+    "nama" : "martin",
+    "email" : "martin@gmail.com",
+    "telpon" : "0812312312",
+    "batch" : 8
+}
