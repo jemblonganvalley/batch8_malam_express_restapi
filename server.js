@@ -17,5 +17,5 @@ app.use("/api/absen", absen);
 // register siswa
 
 app.listen(3000, () => {
-  console.log("berhasil..");
+  console.log(`connect to server`);
 });
